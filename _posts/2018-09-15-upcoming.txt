@@ -4,17 +4,17 @@ title:  "Наши увлечения!"
 date:   2018-09-15 00:50:51 
 categories: Frankfurt
 tags: Frankfurt
-description: Activities.
+description: Upcoming events.
 ---
-Наши увлечения:
+Ближайшие события:
 
-* [Лыжные покатушки][fr-lyzi]
+* 15.09 — новоселье у Anastasiya детали у неё же)
 
-* [Новый год][fr-ny]
+* 16.09 — Detect It. Начало в 17:00. Хочешь поиграть? Пиши @zverart
 
-* [Сквош][fr-skvo]
+* 22.09 покер в 18:00. 
+Вопросы и [Запись][fr-pok] к @romangorel 
 
 
-[fr-lyzi]: https://t.me/joinchat/AAeGCgvi0_XI09s1AU8lrA
-[fr-ny]:   https://t.me/joinchat/AAeGClANpZDWo4QcAjPX6Q
-[fr-skvo]: https://t.me/joinchat/AAeGChFkF-9Tb_hlsKk81g
+[fr-pok]: https://docs.google.com/forms/d/e/1FAIpQLSc9mIirFWwlWAEGLwRUEl6pRINe_EDNkQicVCC2Nh5pAIDFKQ/viewform
+
