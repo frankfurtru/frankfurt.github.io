@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Xixia
-description: Welcome to Xixia！
+name: Франкфурт на Майне
+description: Добро пожаловать во Франкфурт！
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://frankfurtru.github.io
@@ -18,7 +18,7 @@ date_format:
   categories: "%b-%Y"
   tag: "%b-%Y"
 # Language
-lan: "en" 
+lan: "ru" 
 
 paginate: 10
 
