@@ -6,10 +6,13 @@ categories: Frankfurt
 tags: Frankfurt
 description: Activities.
 ---
-Наши увлечения
+Наши увлечения:
 [Лыжные покатушки][fr-lyzi]
+
 [Новый год][fr-ny]
+
 [Сквош][fr-skvo]
+
 
 [fr-lyzi]: https://t.me/joinchat/AAeGCgvi0_XI09s1AU8lrA
 [fr-ny]:   https://t.me/joinchat/AAeGClANpZDWo4QcAjPX6Q
