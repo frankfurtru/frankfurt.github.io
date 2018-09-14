@@ -8,11 +8,11 @@ description: Activities.
 ---
 Наши увлечения:
 
-*[Лыжные покатушки][fr-lyzi]
+* [Лыжные покатушки][fr-lyzi]
 
-*[Новый год][fr-ny]
+* [Новый год][fr-ny]
 
-*[Сквош][fr-skvo]
+* [Сквош][fr-skvo]
 
 
 [fr-lyzi]: https://t.me/joinchat/AAeGCgvi0_XI09s1AU8lrA
