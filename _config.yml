@@ -4,7 +4,7 @@ name: Xixia
 description: Welcome to Xixia！
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/frankfurtru/frankfurtru
+url: https://github.com/frankfurtru/frankfurtru.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
