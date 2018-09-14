@@ -6,4 +6,4 @@ categories: Frankfurt
 tags: Frankfurt
 description: Welcome.
 ---
-Веселые и актиыные приветствуют Вас
+Веселые и активные приветствуют Вас
