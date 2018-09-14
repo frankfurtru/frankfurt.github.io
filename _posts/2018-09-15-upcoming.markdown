@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Наши увлечения!"
+title:  "Ближайшие события!"
 date:   2018-09-15 00:50:51 
 categories: Frankfurt
 tags: Frankfurt
