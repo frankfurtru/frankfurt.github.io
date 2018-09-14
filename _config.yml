@@ -13,7 +13,7 @@ url: https://frankfurtru.github.io
 baseurl: '/frankfurtru.github.io'
 ## default date_format
 date_format: 
-  title: "%B-%-d-%Y"
+  title: "%d-%m-%Y"
   archive: "%b"
   categories: "%b-%Y"
   tag: "%b-%Y"
