@@ -8,7 +8,6 @@ description: Upcoming events.
 ---
 Ближайшие события:
 
-* 16.09 — Detect It. Начало в 17:00. Хочешь поиграть? Пиши @zverart
 
 * 22.09 — Покер в 18:00. 
 Вопросы и [Запись][fr-pok] к @romangorel 
