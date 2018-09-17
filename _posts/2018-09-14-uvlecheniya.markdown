@@ -14,7 +14,10 @@ description: Activities.
 
 * [Сквош][fr-skvo]
 
+* [Баньщики][fr-bans]
+
 
 [fr-lyzi]: https://t.me/joinchat/AAeGCgvi0_XI09s1AU8lrA
 [fr-ny]:   https://t.me/joinchat/AAeGClANpZDWo4QcAjPX6Q
 [fr-skvo]: https://t.me/joinchat/AAeGChFkF-9Tb_hlsKk81g
+[fr-bans]: https://t.me/joinchat/AAeGChLKd72aDX3dljDMRw
