@@ -9,9 +9,9 @@ description: Upcoming events.
 Ближайшие события:
 
 
-* 22.09 — Покер в 18:00. 
-Вопросы и [Запись][fr-pok] к @romangorel 
+* 27.09 — Настолки в [depot 1899][fr-pok] 
+          Время 19:00.
 
 
-[fr-pok]: https://docs.google.com/forms/d/e/1FAIpQLSc9mIirFWwlWAEGLwRUEl6pRINe_EDNkQicVCC2Nh5pAIDFKQ/viewform
+[fr-pok]: http://www.depot1899.de/
 
