@@ -7,7 +7,7 @@ tags: Drinks
 description: Drinks.
 ---
 А Вы знаете, что Франкфурт знаменит не Баварским пивом, а ...яблочным вином?!  
-Яблочное вино в простонародье называется ApfelWein.  
+Яблочное вино в простонародье называется [ApfelWein][dr-apfelwein].  
 Этим кисло-божественный напитком земли Гессен можно насладиться в заведениях:  
 
 
@@ -20,3 +20,4 @@ description: Drinks.
 [dr-wagner]: http://www.apfelwein-wagner.com/
 [dr-gemalt]: http://www.zumgemaltenhaus.de/
 [dr-apost]: http://www.12aposteln-frankfurt.de/
+[dr-apfelwein]: https://ru.wikipedia.org/wiki/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%B2%D0%B8%D0%BD%D0%BE
