@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Франкфурт питейный"
+date:   2018-09-15 00:50:51 
+categories: Frankfurt
+tags: Drinks
+description: Drinks.
+---
+А Вы знаете, что Франкфурт знаменит не Баварским пивом, а ...яблочным вином?!
+Яблочное вино в простонародье называется ApfelWein.
+Этим кисло-божественный напитком земли Гессен можно насладиться в заведениях:
+
+
+* [12 Апостолов][dr-apost] 
+* [Gemaldehaus][dr-gemalt] 
+* [Wagner][dr-wagner]   
+      
+
+
+[dr-wagner]: http://www.apfelwein-wagner.com/
+[dr-gemalt]: http://www.zumgemaltenhaus.de/
+[dr-apost]: http://www.12aposteln-frankfurt.de/
