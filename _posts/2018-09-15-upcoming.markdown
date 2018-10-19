@@ -9,8 +9,7 @@ description: Upcoming events.
 Ближайшие события:
 
 
-* 27.09 — Настолки в [depot 1899][fr-pok] 
-          Время 19:00.
+
 
 
 [fr-pok]: http://www.depot1899.de/
