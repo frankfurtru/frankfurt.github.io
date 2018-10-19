@@ -10,7 +10,7 @@ Cписок хороших ресторанов немецкой кухни, п�
 
 * [Zur Germania][dr-zur]
 * [Zum Feuerraedchen][dr-zum]
-* [Zur-Buchscheer][dr-buch]
+* [Zur Buchscheer][dr-buch]
 * [Leib Seele][dr-leib]
 * [Zum Standesaemtchen][dr-stand]
 
