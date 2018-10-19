@@ -10,7 +10,3 @@ description: Upcoming events.
 
 
 
-
-
-[fr-pok]: http://www.depot1899.de/
-
