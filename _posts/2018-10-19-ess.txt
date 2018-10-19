@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Франкфурт ресторанный"
+date:   2018-10-19 18:20:51 
+categories: Frankfurt
+tags: Food
+description: Food.
+---
+Cписок хороших ресторанов немецкой кухни, проверенных знакомыми немцами 
+
+* [Zur Germania][dr-zur]
+* [Zum Feuerraedchen][dr-zum]
+* [Zur-Buchscheer][dr-buch]
+* [Leib Seele][dr-leib]
+* [Zum Standesaemtchen][dr-stand]
+
+
+[dr-fichte]: http://www.fichtekraenzi.de
+[dr-zur]: http://www.zur-germania.de
+[dr-zum]: http://www.zum-feuerraedchen.de
+[dr-buch]: https://www.buchscheer.de
+[dr-leib]: http://leibundseele-frankfurt.de
+[dr-stand]: https://www.zum-standesaemtchen.de
