@@ -14,4 +14,4 @@ description: Useful.
 При опоздании RMV-транспорта на 10 минут, возвращается часть билета. [Форма для возврата][fr-10min]  
 
 
-[fr-10min]: https://www.rmv.de/c/de/informationen-zum-rmv/der-rmv/rmv-aktuell/geld-zurueck-ab-10-minuten-verspaetung/
+[fr-10min]: https://www.rmv.de/c/de/service/garantien-fahrgastrechte/rmv-10-minuten-garantie
