@@ -14,6 +14,10 @@ Cписок хороших ресторанов немецкой кухни, п�
 * [Leib Seele][dr-leib]
 * [Zum Standesaemtchen][dr-stand]
 
+Бургерные:
+* [Der Fette Bulle]: [dr-fette]
+* [JAMY'S Burger]: [dr-jamys]
+* [Fletcher’s]: [dr- fletch]
 
 [dr-fichte]: http://www.fichtekraenzi.de
 [dr-zur]: http://www.zur-germania.de
@@ -21,3 +25,6 @@ Cписок хороших ресторанов немецкой кухни, п�
 [dr-buch]: https://www.buchscheer.de
 [dr-leib]: http://leibundseele-frankfurt.de
 [dr-stand]: https://www.zum-standesaemtchen.de
+[dr-fette]: https://derfettebulle.squarespace.com/
+[dr-jamys]: http://www.jamysburger.de/
+[dr- fletch]: https://www.fletchers-betterburger.de/
