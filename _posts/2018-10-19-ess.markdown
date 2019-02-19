@@ -25,5 +25,3 @@ Cписок хороших ресторанов немецкой кухни, п�
 [dr-leib]: http://leibundseele-frankfurt.de
 [dr-stand]: https://www.zum-standesaemtchen.de
 [dr-fette]: https://derfettebulle.squarespace.com/
-[dr-jamys]: http://www.jamysburger.de/
-[dr-fletch]: https://www.fletchers-betterburger.de/
