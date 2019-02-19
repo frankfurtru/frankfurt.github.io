@@ -15,7 +15,7 @@ Cписок хороших ресторанов немецкой кухни, п�
 * [Zum Standesaemtchen][dr-stand]
 
 Бургерные:
-* [Der Fette Bulle]: [dr-fette]
+* [Der Fette Bulle][dr-fette]
 
 
 [dr-fichte]: http://www.fichtekraenzi.de
