@@ -15,10 +15,11 @@ description: Drinks.
 * [Gemaldehaus][dr-gemalt] 
 * [Wagner][dr-wagner]  
 
-
-
+Пивные точки:
+* [Naiv][dr-naiv]  - отличное крафтовое 
 
 [dr-wagner]: http://www.apfelwein-wagner.com/
 [dr-gemalt]: http://www.zumgemaltenhaus.de/
 [dr-apost]: http://www.12aposteln-frankfurt.de/
 [dr-apfelwein]: https://ru.wikipedia.org/wiki/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%B2%D0%B8%D0%BD%D0%BE
+[dr-naiv]:https://www.naiv-frankfurt.de/
