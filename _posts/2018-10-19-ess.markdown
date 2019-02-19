@@ -17,7 +17,7 @@ Cписок хороших ресторанов немецкой кухни, п�
 Бургерные:
 * [Der Fette Bulle]: [dr-fette]
 * [JAMY'S Burger]: [dr-jamys]
-* [Fletcher’s]: [dr- fletch]
+* [Fletcher’s]: [dr-fletch]
 
 [dr-fichte]: http://www.fichtekraenzi.de
 [dr-zur]: http://www.zur-germania.de
