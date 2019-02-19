@@ -23,4 +23,4 @@ description: Activities.
 [fr-ny]:   https://t.me/joinchat/AAeGClANpZDWo4QcAjPX6Q
 [fr-skvo]: https://t.me/joinchat/AAeGChFkF-9Tb_hlsKk81g
 [fr-bans]: https://t.me/joinchat/AAeGChLKd72aDX3dljDMRw
-[ft-velo]: https://t.me/frabike
+[fr-velo]: https://t.me/frabike
