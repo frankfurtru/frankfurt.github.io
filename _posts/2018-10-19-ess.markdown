@@ -16,6 +16,7 @@ Cписок хороших ресторанов немецкой кухни, п�
 
 Бургерные:
 * [Der Fette Bulle][dr-fette]
+* [JAMYs Burger]: [dr-jamys]
 
 
 [dr-fichte]: http://www.fichtekraenzi.de
@@ -25,3 +26,4 @@ Cписок хороших ресторанов немецкой кухни, п�
 [dr-leib]: http://leibundseele-frankfurt.de
 [dr-stand]: https://www.zum-standesaemtchen.de
 [dr-fette]: https://derfettebulle.squarespace.com/
+[dr-jamys]: http://www.jamysburger.de/
